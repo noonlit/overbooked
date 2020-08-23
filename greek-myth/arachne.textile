@@ -1,3 +1,26 @@
 h1. The Story of Arachne
 
-http://classics.mit.edu/Ovid/metam.6.sixth.html
+Athena, listening to her colleague’s rant about his decision to fire an arrogant junior, approves and reflects: “While I support my colleagues’ expectation that newcomers defer to their expertise, I let juniors dismiss my own concerns and reasonable suggestions in favour of cobbling together trendy tools and third-party products into a haphazard tech stack.” Her thoughts turned to a new hire on her team, Arachne, a bright and talented girl, who was always finding something new to integrate into their projects, mostly against Athena’s recommendations. She was self-taught and had no university degree or any technical certifications, but her skills had apparently made her extremely popular online. 
+
+Experienced programmers and curious newbies alike watched her videos, drawn by her enthusiasm for web development and her ability to quickly put together a working POC of anything she happened to be interested in at the moment. Often, she used tools and tricks that she had learned from Athena herself, though she never acknowledged this or showed anything but contempt for “dinosaurs” who treated every change in an established tech stack as an inconvenience to be fought. “I’ll take on any senior developer any day!”, she crowed proudly in her latest video.
+
+Athena eventually decided to leave her a comment, under the pseudonymous username @legacy: “Perhaps more experienced developers make certain choices because they’ve learned some lessons the hard way. They want to build custom applications on top of a few proven, reliable tools, not merely string together a multiplicity of black boxes that try to make development seem easy. Have you considered this?”
+
+Arachne’s sharp reply came a few minutes later: “Oh please, let them preach about the merits of writing assembler code to impressionable young interns. I challenge any of them to come up with solutions that are better than mine.”
+
+“I’ll take that challenge,” Athena replied, now authenticated as herself. Responses immediately streamed in from dozens of users who recognised her and thanked her for the impact her articles and demos had had on their lives. Only Arachne said nothing, merely acknowledging the reply with a thumbs up. 
+
+They chose a reasonably simple task that had recently come up in a discussion with one of their clients: developing a blog extension for a popular ecommerce platform. They each downloaded an open source version of the platform, set up identical demo shops, and got to work.
+
+Athena, guided only by the platform’s best practices recommendations, quickly implemented the basic functionalities a store owner could expect from such an extension. She carefully documented her assumptions and the pros and cons for any non-obvious choices in her design and code. She particularly emphasised the risks associated with several alternatives to her approaches, worst-case scenarios that she had personally witnessed more than once. The code itself featured all her hallmarks: expressive, concise, and easily customizable.
+
+Arachne went on the web and soon found extensions built by other developers. She scanned their reviews and tried a few demos, eventually picking one that was highly recommended by shop owners. Adding it to her shop and enabling it was a matter of minutes. It took her a few additional minutes to put together a README file that linked to the extension’s documentation and listed several advanced language features and performance-boosting choices made by the original developers.
+
+Athena reviewed Arachne’s work, finding no obvious flaws in the implementation. The code seemed to be reasonably well-written and sufficiently documented. Moreover, the extension offered more features than her own version. However, the README bothered her immensely: it highlighted all the pros of the choice, not acknowledging any of the risks associated with depending on a third-party extension. Even more infuriatingly, it mentioned “not reinventing the wheel for no good reason,” but did not point out that a wheel not built for their particular cart would eventually overturn it. Well, maybe. It was likely. It was at least in the realm of the possible. 
+
+She left Arachne a long and angry comment, picking holes in every argument she put forward and supplying several real-life horror stories that resulted from developers’ overreliance on tools they didn’t understand. 
+
+“You know, this has been a very enlightening experience. I don’t think I want to be a web developer anymore,” Arachne eventually replied. “Even if I did, you clearly don’t want me on the team. I should quit.”
+
+“No, there’s no need for that. You can stay on the team, but from now on you’ll only be working on web crawlers. And you’ll be building them from scratch.”
+
